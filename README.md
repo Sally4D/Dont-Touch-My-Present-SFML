@@ -2,7 +2,7 @@
 
 Hey, welcome to Don’t Touch My Present! This is my take on a quirky little game originally cooked up by the YouTuber Goodgis. Picture this: Santa’s got a gift, enemy hands are dropping from the sky, and it’s your job to dodge ‘em while racking up points. Simple, chaotic, and a total blast! I built this in C++ with SFML over a single caffeine-fueled weekend, and let me tell you—it was a ride. Now it’s here on GitHub for you to play, tweak, or just laugh at my wild journey.
 
------------- ![GIF](hands%20game%20menu.gif)     -----------------        ![GIF](hands%20game%20play.gif) ------------
+------------ ![GIF](hands%20game%20menu.gif)     ------        ![GIF](hands%20game%20play.gif) ------------
 ## The Crazy Backstory
 So, here’s the deal: I’m a guy who knew C++—like, “hello world” and some something pretty much. Game programming? SFML? whats that brother.... But I’d been binge-watching coding challenges on YouTube (you know, those “make a game in 48 hours” vibes), and Goodgis’s “Don’t Touch My Present” popped up. Bro made this game in PyGame (Python) & tbvh It looked fun to me. And I thought, “Why not? I’ve got a weekend, some coffee, and a stubborn reckless person who takes challenges as fun..." Anyways, i took challenge head-on, thinking how hard it can be... (pretty much hard enough that i wasted half of my day in setting up sfml in visual studio after watching countless tutorials & stuff on stackoverflow)
 
